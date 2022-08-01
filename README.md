@@ -11,7 +11,7 @@ Within this program, we will make use of the following external python modules:
   -- pandas
   -- pathlib
   -- tensorflow
-  -- hsklearn
+  -- sklearn
   
   Additionally, this program was created within a python v3.7 build, and its relevant dependencies.
 
@@ -52,8 +52,6 @@ from sklearn.preprocessing import StandardScaler,OneHotEncoder
 ---
 
 ## Usage
-
-This program was created utilizing Google Colab, and will work best when run within that framework within a Chrome browser. If you should like to do it another way, here is an alternative:
 
 To operate this program, open up your terminal of choice and navigate to the directory in which you have downloaded the files within this repository. Open Jupyter Lab with the command: 
 
